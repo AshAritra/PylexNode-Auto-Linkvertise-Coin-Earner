@@ -28,6 +28,21 @@
   </a>
 </p>
 </div>
+**How to Install the script**
+
+(i) Download Tapermoneky Extention : [Tapermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+
+
+(ii) Copy the main.js file code or downlaod it: [main.js](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/AshAritra/PylexNode-Auto-Linkvertise-Coin-Earner/blob/main/main.js) 
+
+(iii) And paste the code into new folder in Tapermoneky
+
+![Screenshot_1](https://user-images.githubusercontent.com/86512807/219628645-7abe5969-c87d-4384-99a6-aa8880477956.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/86512807/219629515-81cce3d8-d423-4448-83c1-468bbe1593e4.png)
+
+
+
 Join Our Community: https://mist0drag.great-site.net
 
 <!-- Contributing -->
